@@ -62,21 +62,6 @@ Este repositorio especial (`.github/profile/README.md`) y los repositorios públ
   </p>
   
 </div>
-
----
-
-## Proyectos destacados (próximamente)
-
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| **Lilith Data Engine** | Motor de procesamiento analítico para grandes volúmenes de datos. | <i class="fas fa-tools" style="color: #FFA500;"></i> En desarrollo |
-| **Secure Node Network** | Framework descentralizado para comunicaciones cifradas. | <i class="fas fa-clipboard-list" style="color: #3776AB;"></i> Planificación |
-| **Open Web Dash** | Plantillas de dashboards interactivos con datos en tiempo real. | <i class="fas fa-seedling" style="color: #2E8B57;"></i> Early stage |
-
-> ¿Quieres contribuir? ¡Abre un issue o envíanos un correo!
-
----
-
 ## Contacto
 
 <i class="fas fa-envelope" style="color: #8A2BE2; margin-right: 5px;"></i> **tecnologieslilith@gmail.com**  
