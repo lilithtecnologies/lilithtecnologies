@@ -3,13 +3,12 @@
   Muestra la identidad de la empresa y el propósito del perfil.
 -->
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 <div align="center">
   
-  <!-- Icono / Logo conceptual (opcional: puedes sustituir por una imagen real si la generas) -->
-  <img src="https://via.placeholder.com/120x120?text=⚡+L" alt="Lilith Technologies icon" width="120" style="border-radius: 20px; background: #0A0A0A; padding: 10px;">
-  
   <h1 style="color: #2E0A4E; font-family: 'Segoe UI', sans-serif;">
-    ⚡ Lilith Technologies
+    <i class="fas fa-bolt" style="color: #8A2BE2;"></i> Lilith Technologies
   </h1>
   
   <p>
@@ -41,10 +40,10 @@ Nuestra misión: transformar ideas complejas en sistemas funcionales, seguros y 
 Este repositorio especial (`.github/profile/README.md`) y los repositorios públicos asociados se utilizan para:
 
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>🔧 <strong>Proyectos open source</strong> – Código, herramientas y librerías liberadas para la comunidad.</li>
-  <li>🌐 <strong>Páginas web y demos</strong> – Sitios estáticos, POCs, dashboards interactivos y visualizaciones.</li>
-  <li>📚 <strong>Documentación técnica y guías</strong> – Recursos para desarrolladores, analistas e investigadores.</li>
-  <li>🤝 <strong>Colaboración descentralizada</strong> – Espacio para contribuciones externas bajo licencias libres.</li>
+  <li><i class="fas fa-wrench" style="color: #00C8FF; margin-right: 5px; width: 20px; text-align: center;"></i> <strong>Proyectos open source</strong> – Código, herramientas y librerías liberadas para la comunidad.</li>
+  <li><i class="fas fa-globe" style="color: #2E0A4E; margin-right: 5px; width: 20px; text-align: center;"></i> <strong>Páginas web y demos</strong> – Sitios estáticos, POCs, dashboards interactivos y visualizaciones.</li>
+  <li><i class="fas fa-book" style="color: #8A2BE2; margin-right: 5px; width: 20px; text-align: center;"></i> <strong>Documentación técnica y guías</strong> – Recursos para desarrolladores, analistas e investigadores.</li>
+  <li><i class="fas fa-handshake" style="color: #0A0A0A; margin-right: 5px; width: 20px; text-align: center;"></i> <strong>Colaboración descentralizada</strong> – Espacio para contribuciones externas bajo licencias libres.</li>
 </ul>
 
 ---
@@ -52,9 +51,6 @@ Este repositorio especial (`.github/profile/README.md`) y los repositorios públ
 ## Tecnologías que utilizamos
 
 <div align="center">
-  
-  <!-- Iconos tecnológicos con HTML + Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   
   <p>
     <i class="fab fa-python" style="font-size: 2rem; margin: 0 8px; color: #3776AB;"></i>
@@ -73,9 +69,9 @@ Este repositorio especial (`.github/profile/README.md`) y los repositorios públ
 
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
-| **Lilith Data Engine** | Motor de procesamiento analítico para grandes volúmenes de datos. | 🚧 En desarrollo |
-| **Secure Node Network** | Framework descentralizado para comunicaciones cifradas. | 📝 Planificación |
-| **Open Web Dash** | Plantillas de dashboards interactivos con datos en tiempo real. | 🐣 Early stage |
+| **Lilith Data Engine** | Motor de procesamiento analítico para grandes volúmenes de datos. | <i class="fas fa-tools" style="color: #FFA500;"></i> En desarrollo |
+| **Secure Node Network** | Framework descentralizado para comunicaciones cifradas. | <i class="fas fa-clipboard-list" style="color: #3776AB;"></i> Planificación |
+| **Open Web Dash** | Plantillas de dashboards interactivos con datos en tiempo real. | <i class="fas fa-seedling" style="color: #2E8B57;"></i> Early stage |
 
 > ¿Quieres contribuir? ¡Abre un issue o envíanos un correo!
 
@@ -83,9 +79,9 @@ Este repositorio especial (`.github/profile/README.md`) y los repositorios públ
 
 ## Contacto
 
-📧 **tecnologieslilith@gmail.com**  
+<i class="fas fa-envelope" style="color: #8A2BE2; margin-right: 5px;"></i> **tecnologieslilith@gmail.com**  
 
-🌍 Modelo descentralizado – Operación 100% digital.
+<i class="fas fa-globe-americas" style="color: #00C8FF; margin-right: 5px;"></i> Modelo descentralizado – Operación 100% digital.
 
 ---
 
