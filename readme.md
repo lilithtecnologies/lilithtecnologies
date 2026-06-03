@@ -46,24 +46,7 @@ Este repositorio especial (`.github/profile/README.md`) y los repositorios públ
   <li><i class="fas fa-handshake" style="color: #0A0A0A; margin-right: 5px; width: 20px; text-align: center;"></i> <strong>Colaboración descentralizada</strong> – Espacio para contribuciones externas bajo licencias libres.</li>
 </ul>
 
----
-
-## Tecnologías que utilizamos
-
-<div align="center">
-  
-  <p>
-    <i class="fab fa-python" style="font-size: 2rem; margin: 0 8px; color: #3776AB;"></i>
-    <i class="fab fa-js" style="font-size: 2rem; margin: 0 8px; color: #F7DF1E;"></i>
-    <i class="fab fa-react" style="font-size: 2rem; margin: 0 8px; color: #61DAFB;"></i>
-    <i class="fas fa-database" style="font-size: 2rem; margin: 0 8px; color: #00C8FF;"></i>
-    <i class="fas fa-cloud" style="font-size: 2rem; margin: 0 8px; color: #2E0A4E;"></i>
-    <i class="fas fa-shield-alt" style="font-size: 2rem; margin: 0 8px; color: #0A0A0A;"></i>
-  </p>
-  
 </div>
-## Contacto
-
 <i class="fas fa-envelope" style="color: #8A2BE2; margin-right: 5px;"></i> **tecnologieslilith@gmail.com**  
 
 <i class="fas fa-globe-americas" style="color: #00C8FF; margin-right: 5px;"></i> Modelo descentralizado – Operación 100% digital.
